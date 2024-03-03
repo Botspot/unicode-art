@@ -1,5 +1,14 @@
 #!/bin/bash
 
+#color for each character
+fg_color='#ffffff' #white
+
+#background color for the terminal
+bg_color='#202020' #dark grey
+
+#background color for each character displayed
+bk_color='#000000' #black
+
 hex_to_rgb() {
     # Remove '#' if present
     hex="${1#\#}"
@@ -10,15 +19,6 @@ hex_to_rgb() {
     # Print RGB components separated by semicolons
     echo "$r;$g;$b"
 }
-
-#color for each character
-fg_color='#ffffff' #white
-
-#background color for the terminal
-bg_color='#202020' #dark grey
-
-#background color for each character displayed
-bk_color='#000000' #black
 
 #set background color for the spaces between each character
 bg="\e[48;2;$(hex_to_rgb "$bg_color")m"
