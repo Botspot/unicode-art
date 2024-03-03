@@ -17,6 +17,7 @@ This displays all of the useful characters, categorized by shape and type. All c
 1. Zoom in to see the characters better. On LXTerminal this is `Ctrl Shift +`.
 2. If your normal text editor cannot display these characters, try a command-line text editor like `nano` or `vim`.
 3. To color your art use https://misc.flogisoft.com/bash/tip_colors_and_formatting
+4. Change the colors by editing the first few lines in viewer.sh.
 
 ## Troubleshooting:
 1. Question: `Help! the characters are not appearing in the terminal!`  
