@@ -29,9 +29,9 @@ bk="\e[48;2;$(hex_to_rgb "$bk_color")m"
 fg="\e[38;2;$(hex_to_rgb "$fg_color")m"
 
 #set global terminal background color with a different escape code
-echo -e "\e]11;${bg_color}\a\e[97m${bk}Quadrant:${bg}
+echo -e "\e]11;${bg_color}\a\e[97m${bk}${fg}Quadrant:${bg}
 
-${bg} ${bk}▖${bg} ${bk}▗${bg} ${bk}▘${bg} ${bk}▙${bg} ${bk}▚${bg} ${bk}▛${bg} ${bk}▜${bg} ${bk}▝${bg} ${bk}▞${bg}
+${bg} ${bk}▖${bg} ${bk}▗${bg} ${bk}▘${bg} ${bk}▙${bg} ${bk}▚${bg} ${bk}▛${bg} ${bk}▜${bg} ${bk}▝${bg} ${bk}▞${bg} ${bk}▟${bg}
 
 ${bk}Sextant:${bg}
 
@@ -70,6 +70,8 @@ ${bg} ${bk}│${bg} ${bk}┤${bg} ${bk}┘${bg} ${bk}┌${bg} ${bk}┐${bg} ${bk
 ${bg} ${bk}║${bg} ${bk}╣${bg} ${bk}╝${bg} ${bk}╔${bg} ${bk}╗${bg} ${bk}╚${bg} ${bk}╩${bg} ${bk}╦${bg} ${bk}╠${bg} ${bk}═${bg} ${bk}╬${bg}
 
 ${bg} ${bk}╡${bg} ${bk}╢${bg} ${bk}╖${bg} ${bk}╕${bg} ${bk}╜${bg} ${bk}╛${bg} ${bk}╞${bg} ${bk}╟${bg} ${bk}╧${bg} ${bk}╨${bg} ${bk}╤${bg} ${bk}╥${bg} ${bk}╙${bg} ${bk}╘${bg} ${bk}╒${bg} ${bk}╓${bg} ${bk}╫${bg} ${bk}╪${bg}
+
+${bg} ${bk}╭${bg} ${bk}╮${bg} ${bk}╯${bg} ${bk}╰${bg} ${bk}╱${bg} ${bk}╲${bg} ${bk}╳${bg} ${bk}╴${bg} ${bk}╵${bg} ${bk}╶${bg} ${bk}╷${bg}
 \e[0m"
 
 
