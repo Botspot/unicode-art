@@ -41,7 +41,7 @@ ${bg} ${bk}🬞${bg} ${bk}🬟${bg} ${bk}🬠${bg} ${bk}🬡${bg} ${bk}🬢${bg}
 
 ${bk}Shades:${bg}
 
-${bg} ${bk}░${bg} ${bk}▒${bg} ${bk}▓${bg} ${bk}█${bg}   ${bk}🮜${bg} ${bk}🮝${bg} ${bk}🮞${bg} ${bk}🮟${bg}   ${bk}🮑${bg} ${bk}🮒${bg} ${bk}🮔${bg} ${bk}🮌${bg} ${bk}🮍${bg} ${bk}🮎${bg} ${bk}🮏${bg}
+${bg} ${bk}░${bg} ${bk}▒${bg} ${bk}▓${bg} ${bk}🮕${bg} ${bk}🮖${bg} ${bk}🮗${bg} ${bk}🮘${bg} ${bk}🮙${bg} ${bk}█${bg}   ${bk}🮜${bg} ${bk}🮝${bg} ${bk}🮞${bg} ${bk}🮟${bg}   ${bk}🮑${bg} ${bk}🮒${bg} ${bk}🮔${bg} ${bk}🮌${bg} ${bk}🮍${bg} ${bk}🮎${bg} ${bk}🮏${bg}
 
 ${bk}Blocks:${bg}
 
