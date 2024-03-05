@@ -1,6 +1,6 @@
 Would you believe that you can display almost anything in the terminal with enough practice and patience?  
 ![afterburner-ascii](https://github.com/Botspot/unicode-art/assets/54716352/948b7b61-bfd3-439e-9764-56359252737f)  
-![pi-apps-ascii](https://github.com/Botspot/unicode-art/assets/54716352/6f708065-03a1-46b3-b996-b11f70d0b57c)  
+![pi-apps-ascii](https://github.com/Botspot/unicode-art/assets/54716352/daddd26f-81a5-47c0-9599-1a2709859c46)  
 The hardest part is finding the perfect text characters to make these shapes. Many of the best ones will display properly in the terminal but not on the browser!  
 
 This simple github repository tries to solve that problem with a shell script to clearly display all the useful unicode characters for your ASCII-art needs.
@@ -11,7 +11,7 @@ git clone https://github.com/Botspot/unicode-art
 ./unicode-art/viewer.sh
 ```
 This displays all of the useful characters, categorized by shape and type. All characters have been spaced apart for clarity and easy copy-and-paste.  
-![unicode-art viewer.sh screenshot](https://github.com/Botspot/unicode-art/assets/54716352/b5b16492-9477-4c3b-be77-053b0d018d3c)  
+![unicode-art viewer.sh screenshot](https://github.com/Botspot/unicode-art/assets/54716352/e7bb0e43-b94e-4f45-a497-596b7b14fddf)  
 
 ## PRO TIPS:
 1. Zoom in to see the characters better. On LXTerminal this is `Ctrl Shift +`.
@@ -26,4 +26,6 @@ This displays all of the useful characters, categorized by shape and type. All c
     ```
     file /usr/lib/aarch64-linux-gnu/libicudata.so | sed -n 's/.*libicudata.so.//p'
     ```
-    If it is 66 or greater, then everything should render correctly.  
+    If it is 66 or greater, then everything should render correctly.
+2. Question: `Can I make these special characters appear correctly in my web browser my favorite text editor?`  
+    Answer: Yes! Just follow [this tutorial](https://pi-apps.io/install-app/install-color-emoji-font-on-raspberry-pi/) to get the right font package installed. Then close and re-open your programs.
