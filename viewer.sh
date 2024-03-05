@@ -47,7 +47,7 @@ ${bk}Blocks:${bg}
 
 ${bg} ${bk}▁${bg} ${bk}▂${bg} ${bk}▃${bg} ${bk}▄${bg} ${bk}▅${bg} ${bk}▆${bg} ${bk}🮅${bg} ${bk}🮄${bg} ${bk}▀${bg} ${bk}🮃${bg} ${bk}🮂${bg} ${bk}▔${bg}
 
-${bg} ${bk}▎${bg} ${bk}▍${bg} ${bk}▌${bg} ${bk}▋${bg} ${bk}▊${bg} ${bk}▉${bg} ${bk}🮋${bg} ${bk}🮉${bg} ${bk}🮉${bg} ${bk}▐${bg} ${bk}🮈${bg} ${bk}🮇${bg}
+${bg} ${bk}▏${bg} ${bk}▎${bg} ${bk}▍${bg} ${bk}▌${bg} ${bk}▋${bg} ${bk}▊${bg} ${bk}▉${bg} ${bk}🮋${bg} ${bk}🮉${bg} ${bk}🮉${bg} ${bk}▐${bg} ${bk}🮈${bg} ${bk}🮇${bg} ${bk}▕${bg}
 
 ${bg} ${bk}🭰${bg} ${bk}🭱${bg} ${bk}🭲${bg} ${bk}🭳${bg} ${bk}🭴${bg} ${bk}🭵${bg}   ${bk}🭶${bg} ${bk}🭷${bg} ${bk}🭸${bg} ${bk}🭹${bg} ${bk}🭺${bg} ${bk}🭻${bg}   ${bk}🭼${bg} ${bk}🭽${bg} ${bk}🭾${bg} ${bk}🭿${bg} ${bk}🮀${bg} ${bk}🮁${bg}
 
