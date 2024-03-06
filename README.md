@@ -18,6 +18,7 @@ This displays all of the useful characters, categorized by shape and type. All c
 2. If your normal text editor cannot display these characters, try a command-line text editor like `nano` or `vim`.
 3. To color your art use https://misc.flogisoft.com/bash/tip_colors_and_formatting
 4. Change the viewer colors by editing the first few lines in `viewer.sh`. With this you can set the foreground color (`fg`), the background color for the whole terminal (`bg`), and the background color for each displayed character (`bk`).
+5. If you want maximum-density pixel art, check out the [Braille characters](https://shapecatcher.com/unicode/block/Braille_Patterns). There were too many to include in this script, but use that link to see those. Please [open an issue](https://github.com/Botspot/unicode-art/issues/new/choose) if you would find a new `braille-viewer.sh` script useful.
 
 ## Troubleshooting:
 1. Question: `Help! the characters are not appearing in the terminal!`  
