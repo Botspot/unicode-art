@@ -1,6 +1,7 @@
 Would you believe that you can display almost anything in the terminal with enough practice and patience?  
 ![afterburner-ascii](https://github.com/Botspot/unicode-art/assets/54716352/948b7b61-bfd3-439e-9764-56359252737f)  
-![pi-apps-ascii](https://github.com/Botspot/unicode-art/assets/54716352/daddd26f-81a5-47c0-9599-1a2709859c46)  
+![pi-apps-ascii](https://github.com/Botspot/unicode-art/assets/54716352/7000bca8-7caf-4add-abd1-91fd18200e35)  
+
 The hardest part is finding the perfect text characters to make these shapes. Many of the best ones will display properly in the terminal but not on the browser!  
 
 This simple github repository tries to solve that problem with a shell script to clearly display all the useful unicode characters for your ASCII-art needs.
