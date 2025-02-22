@@ -29,5 +29,5 @@ This displays all of the useful characters, categorized by shape and type. All c
     file /usr/lib/aarch64-linux-gnu/libicudata.so | sed -n 's/.*libicudata.so.//p'
     ```
     If it is 66 or greater, then everything should render correctly.
-2. Question: `Can I make these special characters appear correctly in my web browser my favorite text editor?`  
+2. Question: `Can I make these special characters appear correctly in my web browser and my favorite text editor?`  
     Answer: Yes! Just follow [this tutorial](https://pi-apps.io/install-app/install-color-emoji-font-on-raspberry-pi/) to get the right font package installed. Then close and re-open your programs.
